@@ -2,7 +2,7 @@
 # Fichero de configuración de paquetes de personalización de Guadalinex v9
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: guadalinexv9-thunderbird-esr-conf
+name: thunderbird-esr-conf
 
 # Autor 
 author: Alexis Martin Castillo <amartin@emergya.com>
